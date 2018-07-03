@@ -1,0 +1,1 @@
+/usr/bin/c++   --std=c++11 -ggdb -Ofast -fstrict-aliasing -DNDEBUG -march=native   CMakeFiles/h0_lz77.dir/h0_lz77.cpp.o  -o h0_lz77 -rdynamic 

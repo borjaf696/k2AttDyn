@@ -1,0 +1,9 @@
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/edit_cache.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/cw-bwt.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/debug.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/rebuild_cache.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/rle_bwt.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/rle_lz77_v1.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/benchmark.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/rle_lz77_v2.dir
+/home/borja/Escritorio/k2treeDinamic/DYNAMIC-master/bin/CMakeFiles/h0_lz77.dir

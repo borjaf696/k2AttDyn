@@ -1,0 +1,1 @@
+/usr/bin/c++   --std=c++11 -ggdb -Ofast -fstrict-aliasing -DNDEBUG -march=native   CMakeFiles/rle_lz77_v2.dir/rle_lz77_v2.cpp.o  -o rle_lz77_v2 -rdynamic 

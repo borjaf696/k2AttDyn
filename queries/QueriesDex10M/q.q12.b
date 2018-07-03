@@ -1,0 +1,11 @@
+7	10
+70360	movieGenre
+63684	movieGenre
+54204	movieGenre
+19881	movieGenre
+31928	rating
+15907	rating
+38019	rating
+65061	rating
+51444	tag
+54038	tag

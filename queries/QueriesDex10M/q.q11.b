@@ -1,0 +1,11 @@
+6	10
+84223	genre
+56757	genre
+79141	genre
+78530	genre
+66238	movie
+70996	movie
+18900	movie
+40382	movie
+35786	user
+34463	user

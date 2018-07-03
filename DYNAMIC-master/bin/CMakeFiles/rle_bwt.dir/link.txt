@@ -1,0 +1,1 @@
+/usr/bin/c++   --std=c++11 -ggdb -Ofast -fstrict-aliasing -DNDEBUG -march=native   CMakeFiles/rle_bwt.dir/rle_bwt.cpp.o  -o rle_bwt -rdynamic 

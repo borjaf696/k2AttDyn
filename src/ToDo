@@ -1,0 +1,15 @@
+Hasta el momento parece que el k2-tree-dinamico construido con inserciones una tras otra va como Dios manda.
+Falta incorporar las aristas múltiples y la noción sobre cada arista (no debería llevar demasiado). Una vez hecho esto me parece que el k2-tree ligado a las uniones de nodos quedaría resuelto -> pasar a los esquemas (de todos modos los esquemas también funcionan de manera realmente similar sobre todo los densos así que sin problemas, creo)
+	Mañana:
+		--- Incorporar los atributos densos y sparse
+		--- Hacer el schema de nodos y aristas (si vienen dados en el formato que introdujo Sandra no debería haber problema pues ya vienen ordenados. Del fichero node.typ se puede sacar ya la lista de interés) 
+	Mañana:
+		--- Hacer k2-tree dinamico de los atributos densos.
+	FinDe:
+		--- Terminar las queries:
+			--- Sobre el k2-treeDynamic
+			--- Sobre los schemas (no deberia ser complicado)
+			--- Si te apetece mirar: Dex, el otro y el que comento el fulano de la review.
+Ya hemos terminado todo pero aún quedan cosas por hacer. 
+	----DynAttk2Tree -> done; corregir los atributos sparse para que trabajen con char* en lugar de con String (32bytes por defecto creepy)
+

@@ -21,6 +21,9 @@ make</br>
 ## Attk2DynTree
 Dynamic compressed graph representation for regular graph (parallel edges, label edges/nodes, different types of edges/nodes)
 ### Usage:
-Building/Query phase:  
-cd src  
-make...  
+Building/Query phase:</br>
+cd src</br>
+make</br>
+./bin/main \<basename\> \<queriesdir\> \<numqueries\></br>
+
+## Input Format

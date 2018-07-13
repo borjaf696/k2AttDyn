@@ -1,0 +1,2 @@
+- Improve attk2dyntree speed creation (extremely slow especially with a high number of edges)
+- Use a more intuitive input format (extremely weird)

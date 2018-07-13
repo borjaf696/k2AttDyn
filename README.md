@@ -7,13 +7,14 @@ Repository with:
 ## Attk2Tree:
 Static compressed graph representation for regular graph (parallel edges, label edges/nodes, different types of edges/nodes)
 ### Usage:
-Building phase:
-cd attk2/build...
-make
+Building phase:</br>
+cd attk2t/buildattk2t</br>
+make</br>
 Query phase:
+cd attk2t/queryattk2t</br>
 ## Attk2DynTree
 Dynamic compressed graph representation for regular graph (parallel edges, label edges/nodes, different types of edges/nodes)
 ### Usage:
-Building/Query phase:
-cd src
-make..,
+Building/Query phase:  
+cd src  
+make...  

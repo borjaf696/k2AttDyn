@@ -9,9 +9,15 @@ Static compressed graph representation for regular graph (parallel edges, label 
 ### Usage:
 Building phase:</br>
 cd attk2t/buildattk2t</br>
-make</br>
+make</br>  
+./bin/buildtree <basename>  
 Query phase:
 cd attk2t/queryattk2t</br>
+make  
+QueryGen:  
+./bin/query_gen <basename> <queries_dir> <num_queries></br>
+QueryTest:
+  ./bin/query <basename> <queries_dir> <num_queries></br>
 ## Attk2DynTree
 Dynamic compressed graph representation for regular graph (parallel edges, label edges/nodes, different types of edges/nodes)
 ### Usage:

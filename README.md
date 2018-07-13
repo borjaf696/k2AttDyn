@@ -10,7 +10,7 @@ Static compressed graph representation for regular graph (parallel edges, label 
 #### Building phase:</br>
 cd attk2t/buildattk2t</br>
 make</br>
-./bin/buildtree <basename></br>
+./bin/buildtree \<basename\></br>
 #### Query phase:
 cd attk2t/queryattk2t</br>
 make</br>

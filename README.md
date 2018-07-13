@@ -15,9 +15,9 @@ make</br>
 cd attk2t/queryattk2t</br>
 make</br>
 ##### QueryGen:    
-./bin/query_gen \<basename\></br>
+./bin/query_gen \<basename\> \<queriesdir\> \<numqueries\></br>
 ##### QueryTest:  
-./bin/query <basename> <queriesdir> <numqueries></br>
+./bin/query \<basename\> \<queriesdir\> \<numqueries\></br>
 ## Attk2DynTree
 Dynamic compressed graph representation for regular graph (parallel edges, label edges/nodes, different types of edges/nodes)
 ### Usage:
